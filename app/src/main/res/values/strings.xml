@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">quanlychitieu</string>
+    <string name="title_home">Sách bỏ túi</string>
+    <string name="title_dashboard">Ví tiền</string>
+    <string name="title_notifications">Phân tích</string>
+    <string name="title_them">Thêm</string>
+</resources>
